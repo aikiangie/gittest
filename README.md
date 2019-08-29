@@ -1,1 +1,2 @@
 # gittest
+Hola Git. Preparacion.
